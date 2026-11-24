@@ -1,0 +1,38 @@
+BASELINE CNN CONFUSION MATRIX ANALYSIS
+======================================
+
+Top Misclassification Pairs
+--------------------------------------
+5 -> 8: 135 errors
+5 -> 7: 77 errors
+3 -> 5: 77 errors
+5 -> 2: 74 errors
+1 -> 2: 72 errors
+7 -> 8: 61 errors
+8 -> 7: 58 errors
+4 -> 1: 37 errors
+31 -> 20: 36 errors
+4 -> 8: 35 errors
+2 -> 0: 34 errors
+30 -> 20: 29 errors
+3 -> 7: 29 errors
+30 -> 28: 28 errors
+22 -> 25: 28 errors
+27 -> 11: 27 errors
+2 -> 1: 25 errors
+17 -> 12: 24 errors
+3 -> 2: 24 errors
+12 -> 13: 22 errors
+
+Lowest Class Accuracy
+--------------------------------------
+Class 5: 51.11% (630 samples)
+Class 27: 53.33% (60 samples)
+Class 30: 54.67% (150 samples)
+Class 0: 56.67% (60 samples)
+Class 21: 62.22% (90 samples)
+Class 3: 66.22% (450 samples)
+Class 39: 73.33% (90 samples)
+Class 8: 76.67% (450 samples)
+Class 22: 76.67% (120 samples)
+Class 23: 80.67% (150 samples)
